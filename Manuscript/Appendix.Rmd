@@ -1,0 +1,55 @@
+---
+title: "Appendices"
+header-includes: \usepackage{float} \floatplacement{figure}{H}
+output: 
+  pdf_document:
+    fig_caption: no
+    keep_tex: yes
+bibliography: References.bib
+---
+
+##Appendix 1: Additional Description of Study Reaches
+![](Final_figures/Appendix_S1)
+
+**Figure S1** Distributions of habitat conditions measured on transects at the five study reaches in the mainstem Skagit and the Summalo. Site locations (Latitude and Longitude in decimal degrees) are as follows: SK1 (49.208 N., 121.08 W.), SK2 (49.206 N., 121.08 W.), SK3 (49.207 N., 121.07 W.), SM1 (49.264 N., 121.209 W.), and SM2 (49.238 N., 121.134 W.).
+
+
+\clearpage
+
+#Appendix 2: Additional Details on Cover Addition Experiment
+
+*Cover box hydraulics*
+
+To account for the potential role of altered hydraulic conditions due to the addition of cover, we measured velocity in each location before the cover boxes were installed and four days later following observations of fish presence. We also estimated velocity at the exact locations of each foraging fish and noted whether fish appeared to be exploiting micro-velocity gradients that may have been introduced by the structural cover associated with the cover box. 
+
+To infer whether cover box additions modified hydraulics, we compared velocity measurements before cover boxes were installed and after they were retrieved. The six velocity measurement locations were evenly spaced across a 30 x 15 cm grid. At each location, we measured velocity at the stream bottom and at 60% of the water depth. These comparisons revealed some effects of cover additions on hydraulics. Most notably, point velocities were reduced in boxes placed in the highest velocity areas (Figure B1). However, all of the boxes with larger effects on velocities were predicted to have negative NREI and none were ultimately colonized by fish. 
+
+![](Final_figures/Appendix_S2)
+
+**Figure S2** Velocity measurements at each cover box (ordered from highest to lowest mean velocity) taken before (white) and after (grey) installation. Boxes represent the 25% and 75% quartile ranges and lines represent the median values.
+
+\clearpage
+
+*Fish Size Distributions*
+
+![](Final_figures/Appendix_S3)
+
+
+**Figure S3** The estimated relative size distributions of rainbow trout observed foraging under the experimentally added cover compared to size distributions of fish observed foraging at dusk and during the day. 
+
+
+*Net Rate of Energy Intake Modelling*
+
+We used the free program BioenergeticHSC to implement the NREI model. Details of how the program works can be found at (http://www.aferu.ca/rosenfeld-lab-bioenergetichsc). We estimating NREI using the average velocity measured from each cover box and a constant depth of 20 cm (the height of the box). We averaged all daytime drift measurements for this analysis and used a standard fish length of 4.5 cm (approximating the averaged daytime forager). Mass was estimated using a length-mass relationship for each species developed from Silver Hope Creek, an adjacent watershed where we had previously conducted electrofishing surveys [@Naman2019].
+
+We assumed fish held focal points at 80% of the water depth, which was consistant with empirical observations. We also assumed a logarithmic vertical velocity profile, with a bed roughness height of 2 cm. Temperature was set at 10&deg;C. Other options were set as following: the rainbow trout swimming cost submodel; the rainbow trout Wisconsin bioenergetics option for energy assimilation; turbitity set to 0; prey detection and reaction distance multipliers set to 1; diet optimization on; and a spatial grid resolution of 2 cm.  
+
+\clearpage
+
+#Appendix 3: Invertebrate drift results
+
+![](./Final_figures/Appendix_S4.pdf)
+
+**Figure S4** Top: concentration of invertebrate drift (mg m$^{-3}$ and number m$^{-3}$) measured during the day and at dusk. Bottom: Relative distributions of individual drifting invertebrate body size (mm) during the day and at dusk.
+
+#References
