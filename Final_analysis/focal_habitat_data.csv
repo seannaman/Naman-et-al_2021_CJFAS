@@ -1,0 +1,458 @@
+"","Reach","Habitat","Date","Time","Species","Length","Fish.ID","Focal_D","Cover","Cover_2","Substrate","Activity","ADV_file","Depth","V_60","Focal_V","Cover_yn","Key","Species_Activity","V_std"
+"1","SK1",1,"2018-09-18","Night","Bull trout",70,NA,100,"none","","4","Resting","",0.37,0.01,0.01,"No Cover","SK1.Night.NA","Bull trout-Resting",0.142857142857143
+"2","SK1",1,"2018-09-18","Night","Rainbow",90,NA,100,"none","","4","Resting","",0.4,0.02,0.01,"No Cover","SK1.Night.NA","Rainbow-Resting",0.111111111111111
+"3","SK1",1,"2018-09-18","Night","Rainbow",100,NA,100,"none","","4","Resting","",0.45,0.05,0.01,"No Cover","SK1.Night.NA","Rainbow-Resting",0.1
+"4","SK1",1,"2018-09-18","Night","Rainbow",120,NA,100,"none","","4","Resting","",0.65,0.22,0.01,"No Cover","SK1.Night.NA","Rainbow-Resting",0.0833333333333333
+"5","SK1",1,"2018-09-18","Night","Rainbow",110,NA,100,"none","","4","Resting","",0.33,0.05,0.01,"No Cover","SK1.Night.NA","Rainbow-Resting",0.0909090909090909
+"6","SK1",1,"2018-09-18","Night","Bull trout",100,NA,100,"wood","","2","Resting","",0.33,0,0,"Cover","SK1.Night.NA","Bull trout-Resting",0
+"7","SK1",1,"2018-09-18","Night","Rainbow",95,NA,100,"wood","","4","Resting","",0.45,0.03,0.01,"Cover","SK1.Night.NA","Rainbow-Resting",0.105263157894737
+"7.1","SK1",1,"2018-09-18","Night","Rainbow",95,NA,100,"wood","","4","Resting","",0.45,0.03,0.01,"Cover","SK1.Night.NA","Rainbow-Resting",0.105263157894737
+"8","SK1",1,"2018-09-18","Night","Rainbow",80,NA,100,"wood","","4","Resting","",0.36,0.13,0.01,"Cover","SK1.Night.NA","Rainbow-Resting",0.125
+"9","SK1",1,"2018-09-18","Night","Rainbow",65,NA,100,"wood","","3","Resting","",0.41,0.15,0.15,"Cover","SK1.Night.NA","Rainbow-Resting",2.30769230769231
+"10","SK1",1,"2018-09-18","Night","Rainbow",115,NA,100,"wood","","4","Resting","",0.16,0.21,0.01,"Cover","SK1.Night.NA","Rainbow-Resting",0.0869565217391304
+"11","SK1",1,"2018-09-18","Night","Bull trout",110,NA,100,"wood","","4","Resting","",0.56,0.37,0.01,"Cover","SK1.Night.NA","Bull trout-Resting",0.0909090909090909
+"12","SK1",1,"2018-09-18","Night","Rainbow",80,NA,100,"none","","4","Resting","",0.3,0.26,0.01,"No Cover","SK1.Night.NA","Rainbow-Resting",0.125
+"13","SK1",1,"2018-09-18","Night","Rainbow",40,NA,100,"none","","3","Resting","",0.08,0,0,"No Cover","SK1.Night.NA","Rainbow-Resting",0
+"14","SK1",1,"2018-09-18","Night","Rainbow",210,NA,100,"overhang","","4","Resting","",0.3,0.14,0.01,"Cover","SK1.Night.NA","Rainbow-Resting",0.0476190476190476
+"15","SK1",1,"2018-09-18","Night","Bull trout",60,NA,110,"substrate","","4","Resting","",0.42,1.06,0,"Cover","SK1.Night.NA","Bull trout-Resting",0
+"16","SK1",1,"2018-09-18","Night","Rainbow",75,NA,100,"none","","4","Resting","",0.25,0.15,0.01,"No Cover","SK1.Night.NA","Rainbow-Resting",0.133333333333333
+"17","SK1",1,"2018-09-05","Day","Bull trout",95,1.1,110,"substrate","","4","Resting","",0.57,0,0,"Cover","SK1.Day.1.1","Bull trout-Resting",0
+"18","SK1",1,"2018-09-05","Day","Bull trout",110,3.1,110,"substrate","","4","Resting","",0.57,0,0,"Cover","SK1.Day.3.1","Bull trout-Resting",0
+"19","SK1",1,"2018-09-05","Day","Bull trout",55,2.1,110,"substrate","","4","Resting","",0.69,0,0,"Cover","SK1.Day.2.1","Bull trout-Resting",0
+"20","SK1",1,"2018-09-05","Day","Bull trout",70,4.1,110,"substrate","","4","Resting","",0.26,0.327,0,"Cover","SK1.Day.4.1","Bull trout-Resting",0
+"21","SK1",1,"2018-09-05","Day","Rainbow",45,6.1,60,"wood","","2","Foraging","",0.42,0.397,0.187,"Cover","SK1.Day.6.1","Rainbow-Foraging",4.15555555555556
+"22","SK1",1,"2018-09-05","Day","Rainbow",40,5.1,60,"wood","","2","Foraging","",0.39,0.022,0.022,"Cover","SK1.Day.5.1","Rainbow-Foraging",0.55
+"23","SK1",1,"2018-09-05","Day","Bull trout",90,14.1,110,"substrate","","4","Resting","",0.51,0.237,0,"Cover","SK1.Day.14.1","Bull trout-Resting",0
+"24","SK1",2,"2018-09-05","Day","Rainbow",55,15.1,90,"wood","","4","Foraging","",0.17,0.467,0.495,"Cover","SK1.Day.15.1","Rainbow-Foraging",9
+"25","SK1",3,"2018-09-05","Day","Rainbow",45,13.1,60,"none","","4","Foraging","",0.13,0.066,0.066,"No Cover","SK1.Day.13.1","Rainbow-Foraging",1.46666666666667
+"26","SK1",3,"2018-09-05","Day","Bull trout",75,8.1,100,"wood","","4","Resting","",0.56,0.238,0.01,"Cover","SK1.Day.8.1","Bull trout-Resting",0.133333333333333
+"27","SK1",3,"2018-09-05","Day","Rainbow",60,9.1,100,"wood","","4","Resting","",0.44,0.2,0.01,"Cover","SK1.Day.9.1","Rainbow-Resting",0.166666666666667
+"28","SK1",3,"2018-09-05","Day","Bull trout",65,10.1,100,"wood","","4","Resting","",0.3,0.346,0.01,"Cover","SK1.Day.10.1","Bull trout-Resting",0.153846153846154
+"29","SK1",4,"2018-09-05","Day","Bull trout",60,12.1,110,"substrate","","5","Resting","",0.28,0.548,0,"Cover","SK1.Day.12.1","Bull trout-Resting",0
+"30","SK1",4,"2018-09-05","Day","Bull trout",60,11.1,110,"substrate","","5","Resting","",0.17,0.566,0,"Cover","SK1.Day.11.1","Bull trout-Resting",0
+"31","SK1",3,"2018-09-05","Day","Bull trout",80,16.1,90,"wood","","4","Foraging","",0.38,0.263,0,"Cover","SK1.Day.16.1","Bull trout-Foraging",0
+"32","SK1",3,"2018-09-05","Day","Rainbow",70,17.1,90,"wood","","4","Foraging","",0.42,0.142,0.117,"Cover","SK1.Day.17.1","Rainbow-Foraging",1.67142857142857
+"33","SK1",1,"2018-09-05","Dusk","Rainbow",140,3.1,50,"none","","4","Foraging","",0.49,0.082,0.134,"No Cover","SK1.Dusk.3.1","Rainbow-Foraging",0.957142857142857
+"34","SK1",1,"2018-09-05","Dusk","Bull trout",100,4.1,90,"none","","4","Foraging","",0.59,0.64,0.351,"No Cover","SK1.Dusk.4.1","Bull trout-Foraging",3.51
+"35","SK1",1,"2018-09-05","Dusk","Rainbow",90,5.1,60,"none","","4","Foraging","",0.65,0.468,0.468,"No Cover","SK1.Dusk.5.1","Rainbow-Foraging",5.2
+"36","SK1",2,"2018-09-05","Dusk","Rainbow",100,7.1,90,"wood","","4","Foraging","",0.4,0.365,0.264,"Cover","SK1.Dusk.7.1","Rainbow-Foraging",2.64
+"37","SK1",3,"2018-09-05","Dusk","Rainbow",60,8.1,90,"wood","","4","Foraging","",0.32,0.429,0.445,"Cover","SK1.Dusk.8.1","Rainbow-Foraging",7.41666666666667
+"38","SK1",3,"2018-09-05","Dusk","Bull trout",90,9.1,90,"wood","","4","Foraging","",0.45,0.259,0,"Cover","SK1.Dusk.9.1","Bull trout-Foraging",0
+"39","SK1",3,"2018-09-05","Dusk","Rainbow",100,11.1,90,"wood","","5","Foraging","",0.48,0.39,0,"Cover","SK1.Dusk.11.1","Rainbow-Foraging",0
+"40","SK1",3,"2018-09-05","Dusk","Bull trout",70,1.1,90,"none","","4","Foraging","",0.25,0.316,0.098,"No Cover","SK1.Dusk.1.1","Bull trout-Foraging",1.4
+"41","SK1",3,"2018-09-05","Dusk","Rainbow",100,2.1,90,"none","","4","Foraging","",0.27,0.268,0,"No Cover","SK1.Dusk.2.1","Rainbow-Foraging",0
+"42","SK1",3,"2018-09-05","Dusk","Bull trout",60,13.1,100,"none","","4","Foraging","",0.18,0.044,0.01,"No Cover","SK1.Dusk.13.1","Bull trout-Foraging",0.166666666666667
+"43","SK1",3,"2018-09-05","Dusk","Rainbow",40,14.1,60,"none","","3","Foraging","",0.08,0.015,0.015,"No Cover","SK1.Dusk.14.1","Rainbow-Foraging",0.375
+"44","SK1",3,"2018-09-05","Dusk","Rainbow",80,12.1,90,"none","","4","Foraging","",0.34,0.31,0.115,"No Cover","SK1.Dusk.12.1","Rainbow-Foraging",1.4375
+"45","SK1",3,"2018-09-05","Dusk","Bull trout",150,16.1,100,"none","","4","Foraging","",0.25,0,0.01,"No Cover","SK1.Dusk.16.1","Bull trout-Foraging",0.0666666666666667
+"46","SK1",3,"2018-09-05","Dusk","Bull trout",110,10.1,100,"wood","","4","Resting","",0.32,0.207,0.01,"Cover","SK1.Dusk.10.1","Bull trout-Resting",0.0909090909090909
+"47","SK1",4,"2018-09-05","Dusk","Rainbow",120,15.1,90,"none","","4","Foraging","",0.46,0.52,0,"No Cover","SK1.Dusk.15.1","Rainbow-Foraging",0
+"48","SK2",3,"2018-09-12","Night","Bull trout",115,NA,100,"wood","","2","Resting","",1.1,0,0,"Cover","SK2.Night.NA","Bull trout-Resting",0
+"49","SK2",3,"2018-09-12","Dusk","Rainbow",65,NA,60,"none","","4","Foraging","",0.65,0.16,0.16,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",2.46153846153846
+"50","SK2",3,"2018-09-12","Dusk","Bull trout",120,NA,100,"wood","","3","Foraging","",0.63,0.22,0.13,"Cover","SK2.Dusk.NA","Bull trout-Foraging",1.08333333333333
+"51","SK2",3,"2018-09-12","Dusk","Rainbow",100,NA,80,"none","","4","Foraging","",0.74,0.27,0.2,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",2
+"52","SK2",3,"2018-09-12","Dusk","Bull trout",80,NA,100,"none","","4","Foraging","",0.45,0.25,0.01,"No Cover","SK2.Dusk.NA","Bull trout-Foraging",0.125
+"53","SK2",3,"2018-09-12","Dusk","Bull trout",70,NA,100,"none","","4","Foraging","",0.28,0.1,0.01,"No Cover","SK2.Dusk.NA","Bull trout-Foraging",0.142857142857143
+"54","SK2",3,"2018-09-12","Dusk","Rainbow",55,NA,60,"none","","4","Foraging","",0.29,0.12,0.12,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",2.18181818181818
+"55","SK2",3,"2018-09-12","Dusk","Rainbow",40,NA,90,"none","","2","Foraging","",0.4,0.17,0.07,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",1.75
+"56","SK2",3,"2018-09-12","Dusk","Bull trout",150,NA,90,"wood","","2","Foraging","",0.81,0.24,0.06,"Cover","SK2.Dusk.NA","Bull trout-Foraging",0.4
+"57","SK2",3,"2018-09-12","Dusk","Bull trout",100,NA,100,"wood","","2","Foraging","",0.97,0.15,0.28,"Cover","SK2.Dusk.NA","Bull trout-Foraging",2.8
+"58","SK2",3,"2018-09-12","Dusk","Rainbow",90,NA,80,"none","","3","Foraging","",0.47,0.02,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.333333333333333
+"58.1","SK2",3,"2018-09-12","Dusk","Rainbow",90,NA,80,"none","","3","Foraging","",0.47,0.02,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.333333333333333
+"58.2","SK2",3,"2018-09-12","Dusk","Rainbow",90,NA,80,"none","","3","Foraging","",0.47,0.02,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.333333333333333
+"58.3","SK2",3,"2018-09-12","Dusk","Rainbow",90,NA,80,"none","","3","Foraging","",0.47,0.02,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.333333333333333
+"58.4","SK2",3,"2018-09-12","Dusk","Rainbow",90,NA,80,"none","","3","Foraging","",0.47,0.02,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.333333333333333
+"59","SK2",4,"2018-09-12","Dusk","Rainbow",50,NA,90,"none","","3","Foraging","",0.24,0.56,0.53,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",10.6
+"60","SK2",4,"2018-09-12","Dusk","Rainbow",90,NA,90,"none","","4","Foraging","",0.21,0.4,0.38,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",4.22222222222222
+"61","SK2",4,"2018-09-12","Dusk","Bull trout",65,NA,100,"none","","3","Foraging","",0.44,0.35,0.39,"No Cover","SK2.Dusk.NA","Bull trout-Foraging",6
+"62","SK2",4,"2018-09-12","Dusk","Rainbow",80,NA,90,"none","","3","Foraging","",0.44,0.36,0.24,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",3
+"63","SK2",4,"2018-09-12","Dusk","Rainbow",75,NA,90,"wood","","3","Foraging","",0.36,0.76,0.26,"Cover","SK2.Dusk.NA","Rainbow-Foraging",3.46666666666667
+"64","SK2",5,"2018-09-12","Dusk","Rainbow",70,NA,60,"wood","","3","Foraging","",0.48,0.63,0.63,"Cover","SK2.Dusk.NA","Rainbow-Foraging",9
+"65","SK2",2,"2018-09-12","Dusk","Bull trout",50,NA,90,"wood","","2","Foraging","",0.34,0.06,0.04,"Cover","SK2.Dusk.NA","Bull trout-Foraging",0.8
+"66","SK2",2,"2018-09-12","Dusk","Rainbow",45,NA,90,"none","","2","Foraging","",0.3,0.03,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.666666666666667
+"66.1","SK2",2,"2018-09-12","Dusk","Rainbow",45,NA,90,"none","","2","Foraging","",0.3,0.03,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.666666666666667
+"66.2","SK2",2,"2018-09-12","Dusk","Rainbow",45,NA,90,"none","","2","Foraging","",0.3,0.03,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.666666666666667
+"66.3","SK2",2,"2018-09-12","Dusk","Rainbow",45,NA,90,"none","","2","Foraging","",0.3,0.03,0.03,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0.666666666666667
+"67","SK2",2,"2018-09-12","Dusk","Bull trout",70,NA,90,"none","","2","Foraging","",0.67,0.03,0.05,"No Cover","SK2.Dusk.NA","Bull trout-Foraging",0.714285714285714
+"68","SK2",2,"2018-09-12","Dusk","Rainbow",50,NA,90,"none","","2","Foraging","",0.43,0,0,"No Cover","SK2.Dusk.NA","Rainbow-Foraging",0
+"69","SK2",2,"2018-09-12","Dusk","Bull trout",80,NA,100,"wood","","2","Resting","",0.75,0,0,"Cover","SK2.Dusk.NA","Bull trout-Resting",0
+"70","SK2",2,"2018-09-12","Dusk","Bull trout",90,NA,90,"wood","","2","Foraging","",1.05,0.06,0.01,"Cover","SK2.Dusk.NA","Bull trout-Foraging",0.111111111111111
+"71","SK2",2,"2018-09-12","Dusk","Rainbow",70,NA,90,"wood","","2","Foraging","",0.96,0.08,0.05,"Cover","SK2.Dusk.NA","Rainbow-Foraging",0.714285714285714
+"71.1","SK2",2,"2018-09-12","Dusk","Rainbow",70,NA,90,"wood","","2","Foraging","",0.96,0.08,0.05,"Cover","SK2.Dusk.NA","Rainbow-Foraging",0.714285714285714
+"72","SK2",2,"2018-09-12","Dusk","Bull trout",120,NA,70,"wood","","2","Foraging","",0.63,0.09,0.08,"Cover","SK2.Dusk.NA","Bull trout-Foraging",0.666666666666667
+"72.1","SK2",2,"2018-09-12","Dusk","Bull trout",120,NA,70,"wood","","2","Foraging","",0.63,0.09,0.08,"Cover","SK2.Dusk.NA","Bull trout-Foraging",0.666666666666667
+"73","SK2",1,"2018-09-12","Dusk","Rainbow",70,NA,100,"none","","4","Resting","",NA,NA,0.01,"No Cover","SK2.Dusk.NA","Rainbow-Resting",0.142857142857143
+"74","SK2",1,"2018-09-12","Dusk","Bull trout",110,NA,100,"none","","3","Resting","",0.43,0.39,0.26,"No Cover","SK2.Dusk.NA","Bull trout-Resting",2.36363636363636
+"76","SK2",1,"2018-09-12","Dusk","Rainbow",70,NA,90,"wood","","4","Foraging","",0.3,0.4,0.31,"Cover","SK2.Dusk.NA","Rainbow-Foraging",4.42857142857143
+"77","SK2",1,"2018-09-12","Dusk","Bull trout",60,NA,100,"wood","","3","Resting","",0.36,0.28,0.11,"Cover","SK2.Dusk.NA","Bull trout-Resting",1.83333333333333
+"78","SK2",1,"2018-09-12","Dusk","Rainbow",100,NA,100,"none","","4","Resting","",0.42,0.41,0.01,"No Cover","SK2.Dusk.NA","Rainbow-Resting",0.1
+"79","SK2",1,"2018-09-12","Night","Bull trout",95,NA,100,"none","","4","Resting","",0.47,0.37,0.01,"No Cover","SK2.Night.NA","Bull trout-Resting",0.105263157894737
+"80","SK2",1,"2018-09-12","Night","Bull trout",60,NA,100,"none","","4","Resting","",0.47,0.33,0.01,"No Cover","SK2.Night.NA","Bull trout-Resting",0.166666666666667
+"81","SK2",1,"2018-09-12","Night","Rainbow",95,NA,90,"none","","4","Foraging","",0.47,0.34,0.25,"No Cover","SK2.Night.NA","Rainbow-Foraging",2.63157894736842
+"82","SK2",1,"2018-09-12","Night","Rainbow",70,NA,100,"none","","3","Resting","",0.31,0.15,0.08,"No Cover","SK2.Night.NA","Rainbow-Resting",1.14285714285714
+"83","SK2",1,"2018-09-12","Night","Rainbow",65,NA,100,"none","","2","Resting","",0.17,0.13,0.06,"No Cover","SK2.Night.NA","Rainbow-Resting",0.923076923076923
+"84","SK2",1,"2018-09-12","Night","Bull trout",110,NA,90,"none","","4","Foraging","",0.57,0.28,0.11,"No Cover","SK2.Night.NA","Bull trout-Foraging",1
+"85","SK2",1,"2018-09-12","Night","Rainbow",70,NA,90,"none","","4","Foraging","",0.44,0.21,0.22,"No Cover","SK2.Night.NA","Rainbow-Foraging",3.14285714285714
+"86","SK2",1,"2018-09-12","Night","Rainbow",50,NA,100,"none","","2","Resting","",NA,NA,0,"No Cover","SK2.Night.NA","Rainbow-Resting",0
+"87","SK2",1,"2018-09-12","Night","Rainbow",65,NA,100,"none","","2","Resting","",0.26,0.19,0.17,"No Cover","SK2.Night.NA","Rainbow-Resting",2.61538461538462
+"88","SK2",1,"2018-09-12","Night","Bull trout",80,NA,100,"wood","","2","Resting","",0.31,0.13,0.13,"Cover","SK2.Night.NA","Bull trout-Resting",1.625
+"89","SK2",1,"2018-09-12","Night","Rainbow",70,NA,100,"wood","","2","Resting","",NA,NA,0,"Cover","sK2.Night.NA","Rainbow-Resting",0
+"90","SK2",3,"2018-09-12","Night","Bull trout",85,NA,100,"wood","","2","Resting","",0.29,0.19,0.18,"Cover","SK2.Night.NA","Bull trout-Resting",2.11764705882353
+"91","SK2",3,"2018-09-12","Night","Bull trout",70,NA,100,"wood","","2","Resting","",0.41,0.14,0.11,"Cover","SK2.Night.NA","Bull trout-Resting",1.57142857142857
+"92","SK2",3,"2018-09-12","Night","Bull trout",100,NA,100,"wood","","2","Resting","",0.35,0.08,0.13,"Cover","SK2.Night.NA","Bull trout-Resting",1.3
+"93","SK2",3,"2018-09-12","Night","Bull trout",90,NA,100,"wood","","2","Resting","",0.69,0.13,0.16,"Cover","SK2.Night.NA","Bull trout-Resting",1.77777777777778
+"94","SK2",3,"2018-09-12","Night","Rainbow",75,NA,100,"none","","4","Resting","",0.37,0.17,0.01,"No Cover","SK2.Night.NA","Rainbow-Resting",0.133333333333333
+"95","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"95.1","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"95.2","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"95.3","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"95.4","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"95.5","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"95.6","SK2",3,"2018-09-12","Night","Rainbow",100,NA,100,"none","","2","Resting","",0.65,0.03,0.05,"No Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"96","SK2",2,"2018-09-12","Night","Rainbow",40,NA,80,"none","",NA,"Foraging","",0.02,0,0,"No Cover","SK2.Night.NA","Rainbow-Foraging",0
+"96.1","SK2",2,"2018-09-12","Night","Rainbow",40,NA,80,"none","",NA,"Foraging","",0.02,0,0,"No Cover","SK2.Night.NA","Rainbow-Foraging",0
+"96.2","SK2",2,"2018-09-12","Night","Rainbow",40,NA,80,"none","",NA,"Foraging","",0.02,0,0,"No Cover","SK2.Night.NA","Rainbow-Foraging",0
+"96.3","SK2",2,"2018-09-12","Night","Rainbow",40,NA,80,"none","",NA,"Foraging","",0.02,0,0,"No Cover","SK2.Night.NA","Rainbow-Foraging",0
+"97","SK2",2,"2018-09-12","Night","Rainbow",80,NA,90,"wood","","2","Foraging","",0.6,0.05,0.03,"Cover","SK2.Night.NA","Rainbow-Foraging",0.375
+"97.1","SK2",2,"2018-09-12","Night","Rainbow",80,NA,90,"wood","","2","Foraging","",0.6,0.05,0.03,"Cover","SK2.Night.NA","Rainbow-Foraging",0.375
+"98","SK2",2,"2018-09-12","Night","Rainbow",40,NA,100,"wood","","2","Resting","",0.35,0.02,0.03,"Cover","SK2.Night.NA","Rainbow-Resting",0.75
+"98.1","SK2",2,"2018-09-12","Night","Rainbow",40,NA,100,"wood","","2","Resting","",0.35,0.02,0.03,"Cover","SK2.Night.NA","Rainbow-Resting",0.75
+"99","SK2",2,"2018-09-12","Night","Rainbow",80,NA,100,"wood","","2","Resting","",0.35,0.02,0.03,"Cover","SK2.Night.NA","Rainbow-Resting",0.375
+"99.1","SK2",2,"2018-09-12","Night","Rainbow",80,NA,100,"wood","","2","Resting","",0.35,0.02,0.03,"Cover","SK2.Night.NA","Rainbow-Resting",0.375
+"100","SK2",2,"2018-09-12","Night","Bull trout",105,NA,100,"wood","","2","Resting","",0.64,0.08,0.02,"Cover","SK2.Night.NA","Bull trout-Resting",0.19047619047619
+"100.1","SK2",2,"2018-09-12","Night","Bull trout",105,NA,100,"wood","","2","Resting","",0.64,0.08,0.02,"Cover","SK2.Night.NA","Bull trout-Resting",0.19047619047619
+"101","SK2",2,"2018-09-12","Night","Bull trout",115,NA,100,"wood","","2","Resting","",1.06,0.01,0,"Cover","SK2.Night.NA","Bull trout-Resting",0
+"101.1","SK2",2,"2018-09-12","Night","Bull trout",115,NA,100,"wood","","2","Resting","",1.06,0.01,0,"Cover","SK2.Night.NA","Bull trout-Resting",0
+"102","SK2",2,"2018-09-12","Night","Rainbow",100,NA,100,"wood","","2","Resting","",0.84,0.07,0.05,"Cover","SK2.Night.NA","Rainbow-Resting",0.5
+"103","SK2",2,"2018-09-12","Night","Rainbow",120,NA,100,"wood","","2","Resting","",0.4,0.04,0.08,"Cover","SK2.Night.NA","Rainbow-Resting",0.666666666666667
+"104","SK2",5,"2018-09-12","Night","Rainbow",100,NA,55,"none","","2","Resting","",NA,NA,0,"No Cover","SK2.Night.NA","Rainbow-Resting",0
+"105","SK2",1,"2018-09-11","Day","Bull trout",75,1.1,110,"substrate","","4","Resting","",0.21,0.745,0,"Cover","SK2.Day.1.1","Bull trout-Resting",0
+"106","SK2",1,"2018-09-11","Day","Rainbow",60,2.1,110,"substrate","","4","Resting","",0.25,0.586,0,"Cover","SK2.Day.2.1","Rainbow-Resting",0
+"107","SK2",1,"2018-09-11","Day","Bull trout",70,3.1,110,"substrate","","4","Resting","",0.28,0.668,0,"Cover","SK2.Day.3.1","Bull trout-Resting",0
+"108","SK2",1,"2018-09-11","Day","Bull trout",65,4.1,110,"substrate","","4","Resting","",0.34,0.626,0,"Cover","SK2.Day.4.1","Bull trout-Resting",0
+"109","SK2",1,"2018-09-11","Day","Rainbow",55,5.1,110,"substrate","","4","Resting","",0.24,0.408,0,"Cover","SK2.Day.5.1","Rainbow-Resting",0
+"110","SK2",1,"2018-09-11","Day","Rainbow",50,6.1,110,"substrate","","4","Resting","",0.19,0.338,0,"Cover","SK2.Day.6.1","Rainbow-Resting",0
+"111","SK2",1,"2018-09-11","Day","Bull trout",65,10.1,110,"substrate","","4","Resting","",0.45,0.481,0,"Cover","SK2.Day.10.1","Bull trout-Resting",0
+"112","SK2",1,"2018-09-11","Day","Rainbow",55,7.1,90,"wood","","4","Resting","",0.32,0.258,0.159,"Cover","SK2.Day.7.1","Rainbow-Resting",2.89090909090909
+"112.1","SK2",1,"2018-09-11","Day","Rainbow",55,7.1,90,"wood","","4","Resting","",0.32,0.258,0.159,"Cover","SK2.Day.7.1","Rainbow-Resting",2.89090909090909
+"113","SK2",1,"2018-09-11","Day","Rainbow",40,8.1,90,"none","","3","Foraging","",0.36,0.221,0.428,"No Cover","SK2.Day.8.1","Rainbow-Foraging",10.7
+"114","SK2",1,"2018-09-11","Day","Rainbow",50,9.1,100,"none","","4","Resting","",0.18,0.161,0.01,"No Cover","SK2.Day.9.1","Rainbow-Resting",0.2
+"115","SK2",1,"2018-09-11","Day","Bull trout",75,11.1,100,"wood","","3","Resting","",0.4,0.37,0,"Cover","SK2.Day.11.1","Bull trout-Resting",0
+"116","SK2",1,"2018-09-11","Day","Rainbow",50,12.1,100,"none","","3","Resting","",0.55,0.416,0,"No Cover","SK2.Day.12.1","Rainbow-Resting",0
+"117","SK2",1,"2018-09-11","Day","Bull trout",65,13.1,110,"substrate","","4","Resting","",0.34,0.203,0,"Cover","SK2.Day.13.1","Bull trout-Resting",0
+"118","SK2",1,"2018-09-11","Day","Rainbow",50,14.1,110,"substrate","","4","Resting","",0.48,0.382,0,"Cover","SK2.Day.14.1","Rainbow-Resting",0
+"119","SK2",1,"2018-09-11","Day","Rainbow",45,16.1,100,"none","","4","Resting","",0.23,0.101,0.01,"No Cover","SK2.Day.16.1","Rainbow-Resting",0.222222222222222
+"120","SK2",1,"2018-09-11","Day","Rainbow",50,15.1,100,"none","","4","Resting","",0.35,0.385,0.01,"No Cover","SK2.Day.15.1","Rainbow-Resting",0.2
+"121","SK2",2,"2018-09-11","Day","Rainbow",55,19.1,90,"wood","","2","Foraging","",0.31,0.143,0.142,"Cover","SK2.Day.19.1","Rainbow-Foraging",2.58181818181818
+"121.1","SK2",2,"2018-09-11","Day","Rainbow",55,19.1,90,"wood","","2","Foraging","",0.31,0.143,0.142,"Cover","SK2.Day.19.1","Rainbow-Foraging",2.58181818181818
+"122","SK2",2,"2018-09-11","Day","Rainbow",55,18.1,60,"wood","","2","Foraging","",0.64,0.052,0.052,"Cover","SK2.Day.18.1","Rainbow-Foraging",0.945454545454545
+"124","SK2",2,"2018-09-11","Day","Rainbow",35,20.1,90,"wood","","3","Resting","",0.13,0,0,"Cover","SK2.Day.20.1","Rainbow-Resting",0
+"125","SK2",3,"2018-09-11","Day","Rainbow",30,21.1,60,"none","","4","Foraging","",0.3,0,-0.138,"No Cover","SK2.Day.21.1","Rainbow-Foraging",-4.6
+"126","SK2",3,"2018-09-11","Day","Bull trout",70,22.1,110,"substrate","","4","Resting","",0.2,0.44,0,"Cover","SK2.Day.22.1","Bull trout-Resting",0
+"127","SK2",3,"2018-09-11","Day","Bull trout",65,23.1,110,"substrate","","4","Resting","",0.58,0.348,0,"Cover","SK2.Day.23.1","Bull trout-Resting",0
+"128","SK2",3,"2018-09-11","Day","Bull trout",80,24.1,110,"substrate","","4","Resting","",0.45,0.379,0,"Cover","SK2.Day.24.1","Bull trout-Resting",0
+"129","SK2",3,"2018-09-11","Day","Bull trout",65,25.1,110,"substrate","","4","Resting","",0.43,0.309,0,"Cover","SK2.Day.25.1","Bull trout-Resting",0
+"130","SK2",3,"2018-09-11","Day","Rainbow",60,26.1,110,"substrate","","4","Resting","",0.33,0.294,0,"Cover","SK2.Day.26.1","Rainbow-Resting",0
+"131","SK2",3,"2018-09-11","Day","Bull trout",90,28.1,110,"substrate","","5","Resting","",0.49,0.307,0,"Cover","SK2.Day.28.1","Bull trout-Resting",0
+"132","SK2",3,"2018-09-11","Day","Bull trout",65,27.1,110,"substrate","","4","Resting","",0.42,0.306,0,"Cover","SK2.Day.27.1","Bull trout-Resting",0
+"133","SK2",3,"2018-09-11","Day","Rainbow",65,30.1,110,"substrate","","4","Resting","",0.3,0.197,0,"Cover","SK2.Day.30.1","Rainbow-Resting",0
+"134","SK2",3,"2018-09-11","Day","Rainbow",40,33.1,90,"none","","4","Foraging","",0.32,0.191,0.149,"No Cover","SK2.Day.33.1","Rainbow-Foraging",3.725
+"135","SK2",3,"2018-09-11","Day","Bull trout",65,32.1,110,"substrate","","4","Resting","",0.48,0.274,0,"Cover","SK2.Day.32.1","Bull trout-Resting",0
+"136","SK2",3,"2018-09-11","Day","Rainbow",50,31.1,100,"none","","4","Resting","",0.61,0.299,0.01,"No Cover","SK2.Day.31.1","Rainbow-Resting",0.2
+"141","SK2",4,"2018-09-11","Day","Rainbow",60,38.1,80,"wood","","2","Foraging","",0.59,0.1,0.044,"Cover","SK2.Day.38.1","Rainbow-Foraging",0.733333333333333
+"142","SK2",4,"2018-09-11","Day","Rainbow",55,39.1,90,"wood","","2","Foraging","",0.39,0.095,0.057,"Cover","SK2.Day.39.1","Rainbow-Foraging",1.03636363636364
+"143","SK2",4,"2018-09-11","Day","Rainbow",65,40.1,90,"wood","","2","Foraging","",NA,NA,NA,"Cover","SK2.Day.40.1","Rainbow-Foraging",NA
+"144","SK2",4,"2018-09-11","Day","Rainbow",35,NA,60,"wood","","3","Foraging","",0.12,0.01,0.01,"Cover","SK2.Day.NA","Rainbow-Foraging",0.285714285714286
+"144.1","SK2",4,"2018-09-11","Day","Rainbow",35,NA,60,"wood","","3","Foraging","",0.12,0.01,0.01,"Cover","SK2.Day.NA","Rainbow-Foraging",0.285714285714286
+"144.2","SK2",4,"2018-09-11","Day","Rainbow",35,NA,60,"wood","","3","Foraging","",0.12,0.01,0.01,"Cover","SK2.Day.NA","Rainbow-Foraging",0.285714285714286
+"144.3","SK2",4,"2018-09-11","Day","Rainbow",35,NA,60,"wood","","3","Foraging","",0.12,0.01,0.01,"Cover","SK2.Day.NA","Rainbow-Foraging",0.285714285714286
+"144.4","SK2",4,"2018-09-11","Day","Rainbow",35,NA,60,"wood","","3","Foraging","",0.12,0.01,0.01,"Cover","SK2.Day.NA","Rainbow-Foraging",0.285714285714286
+"145","SK3",1,"2018-09-17","Dusk","Rainbow",60,10.1,90,"none","","4","Foraging","",0.22,0.085,0.083,"No Cover","SK3.Dusk.10.1","Rainbow-Foraging",1.38333333333333
+"146","SK3",1,"2018-09-17","Dusk","Bull trout",65,9.1,100,"wood","","4","Foraging","",0.25,0,0.01,"Cover","SK3.Dusk.9.1","Bull trout-Foraging",0.153846153846154
+"147","SK3",1,"2018-09-17","Dusk","Rainbow",70,2.1,90,"none","","4","Foraging","",0.23,0.365,0.351,"No Cover","SK3.Dusk.2.1","Rainbow-Foraging",5.01428571428571
+"148","SK3",1,"2018-09-17","Dusk","Rainbow",60,1.1,90,"wood","","4","Foraging","",0.34,0.369,0.252,"Cover","SK3.Dusk.1.1","Rainbow-Foraging",4.2
+"149","SK3",2,"2018-09-17","Dusk","Rainbow",80,3.1,60,"none","","4","Foraging","",0.39,0.437,0.265,"No Cover","SK3.Dusk.3.1","Rainbow-Foraging",3.3125
+"150","SK3",2,"2018-09-17","Dusk","Rainbow",85,4.1,90,"none","","3","Foraging","",0.28,0.203,0.123,"No Cover","SK3.Dusk.4.1","Rainbow-Foraging",1.44705882352941
+"151","SK3",2,"2018-09-17","Dusk","Bull trout",60,8.1,100,"none","","4","Foraging","",0.41,0.012,0.01,"No Cover","SK3.Dusk.8.1","Bull trout-Foraging",0.166666666666667
+"152","SK3",2,"2018-09-17","Dusk","Rainbow",90,5.1,100,"none","","4","Foraging","",0.46,0.445,0.01,"No Cover","SK3.Dusk.5.1","Rainbow-Foraging",0.111111111111111
+"153","SK3",2,"2018-09-17","Dusk","Bull trout",115,6.1,100,"wood","","4","Foraging","",0.43,0.055,0.01,"Cover","SK3.Dusk.6.1","Bull trout-Foraging",0.0869565217391304
+"154","SK3",2,"2018-09-17","Dusk","Rainbow",120,15.1,90,"none","","4","Foraging","",0.25,0.259,0.282,"No Cover","SK3.Dusk.15.1","Rainbow-Foraging",2.35
+"155","SK3",2,"2018-09-17","Dusk","Rainbow",120,16.1,60,"none","","4","Foraging","",0.29,0.289,0.289,"No Cover","SK3.Dusk.16.1","Rainbow-Foraging",2.40833333333333
+"156","SK3",2,"2018-09-17","Dusk","Rainbow",40,11.1,60,"none","","4","Foraging","",0.08,0.078,0.078,"No Cover","SK3.Dusk.11.1","Rainbow-Foraging",1.95
+"156.1","SK3",2,"2018-09-17","Dusk","Rainbow",40,11.1,60,"none","","4","Foraging","",0.08,0.078,0.078,"No Cover","SK3.Dusk.11.1","Rainbow-Foraging",1.95
+"156.2","SK3",2,"2018-09-17","Dusk","Rainbow",40,11.1,60,"none","","4","Foraging","",0.08,0.078,0.078,"No Cover","SK3.Dusk.11.1","Rainbow-Foraging",1.95
+"157","SK3",2,"2018-09-17","Dusk","Rainbow",30,12.1,60,"none","","3","Foraging","",0.03,0.012,0.012,"No Cover","SK3.Dusk.12.1","Rainbow-Foraging",0.4
+"157.1","SK3",2,"2018-09-17","Dusk","Rainbow",30,12.1,60,"none","","3","Foraging","",0.03,0.012,0.012,"No Cover","SK3.Dusk.12.1","Rainbow-Foraging",0.4
+"158","SK3",2,"2018-09-17","Dusk","Rainbow",40,14.1,90,"none","","3","Foraging","",0.08,0.003,0.003,"No Cover","SK3.Dusk.14.1","Rainbow-Foraging",0.075
+"158.1","SK3",2,"2018-09-17","Dusk","Rainbow",40,14.1,90,"none","","3","Foraging","",0.08,0.003,0.003,"No Cover","SK3.Dusk.14.1","Rainbow-Foraging",0.075
+"159","SK3",2,"2018-09-17","Dusk","Rainbow",45,13.1,90,"none","","4","Foraging","",0.05,0,-0.042,"No Cover","SK3.Dusk.13.1","Rainbow-Foraging",-0.933333333333333
+"159.1","SK3",2,"2018-09-17","Dusk","Rainbow",45,13.1,90,"none","","4","Foraging","",0.05,0,-0.042,"No Cover","SK3.Dusk.13.1","Rainbow-Foraging",-0.933333333333333
+"159.2","SK3",2,"2018-09-17","Dusk","Rainbow",45,13.1,90,"none","","4","Foraging","",0.05,0,-0.042,"No Cover","SK3.Dusk.13.1","Rainbow-Foraging",-0.933333333333333
+"160","SK3",2,"2018-09-17","Dusk","Bull trout",100,7.1,100,"overhang","","4","Foraging","",0.48,0.082,0.01,"Cover","SK3.Dusk.7.1","Bull trout-Foraging",0.1
+"161","SK3",1,"2018-09-17","Day","Rainbow",60,NA,90,"none","","4","Foraging","",0.2,0.53,0.46,"No Cover","SK3.Day.NA","Rainbow-Foraging",7.66666666666667
+"162","SK3",1,"2018-09-17","Day","Bull trout",70,NA,100,"wood","","4","Foraging","",0.19,0.06,0.01,"Cover","SK3.Day.NA","Bull trout-Foraging",0.142857142857143
+"163","SK3",1,"2018-09-17","Day","Rainbow",75,NA,110,"substrate","","4","Resting","",0.26,0.47,0,"Cover","SK3.Day.NA","Rainbow-Resting",0
+"164","SK3",1,"2018-09-17","Day","Rainbow",50,NA,110,"substrate","","4","Resting","",0.19,0.11,0,"Cover","SK3.Day.NA","Rainbow-Resting",0
+"165","SK3",1,"2018-09-17","Day","Bull trout",60,NA,110,"substrate","","4","Resting","",0.11,0.27,0,"Cover","SK3.Day.NA","Bull trout-Resting",0
+"166","SK3",1,"2018-09-17","Day","Rainbow",55,NA,100,"overhang","","5","Foraging","",0.27,0.04,0.05,"Cover","SK3.Day.NA","Rainbow-Foraging",0.909090909090909
+"167","SK3",1,"2018-09-17","Day","Bull trout",60,NA,100,"overhang","","4","Resting","",0.19,0.06,0.01,"Cover","SK3.Day.NA","Bull trout-Resting",0.166666666666667
+"168","SK3",1,"2018-09-17","Day","Rainbow",60,NA,100,"overhang","","4","Resting","",0.24,0.02,0.01,"Cover","SK3.Day.NA","Rainbow-Resting",0.166666666666667
+"169","SK3",1,"2018-09-17","Day","Rainbow",40,NA,90,"none","","3","Foraging","",0.11,0.13,0.13,"No Cover","SK3.Day.NA","Rainbow-Foraging",3.25
+"169.1","SK3",1,"2018-09-17","Day","Rainbow",40,NA,90,"none","","3","Foraging","",0.11,0.13,0.13,"No Cover","SK3.Day.NA","Rainbow-Foraging",3.25
+"169.2","SK3",1,"2018-09-17","Day","Rainbow",40,NA,90,"none","","3","Foraging","",0.11,0.13,0.13,"No Cover","SK3.Day.NA","Rainbow-Foraging",3.25
+"170","SK3",1,"2018-09-17","Dusk","Rainbow",65,NA,70,"none","","4","Foraging","",NA,NA,NA,"No Cover","SK3.Dusk.NA","Rainbow-Foraging",NA
+"171","SK3",1,"2018-09-17","Night","Rainbow",75,NA,100,"wood","","2","Resting","",0.19,0.25,0.23,"Cover","SK3.Night.NA","Rainbow-Resting",3.06666666666667
+"172","SK3",1,"2018-09-17","Night","Rainbow",115,NA,100,"wood","","4","Resting","",0.26,0.21,0.01,"Cover","SK3.Night.NA","Rainbow-Resting",0.0869565217391304
+"173","SK3",1,"2018-09-17","Night","Rainbow",75,NA,100,"wood","","4","Resting","",0.18,0.12,0.01,"Cover","SK3.Night.NA","Rainbow-Resting",0.133333333333333
+"174","SK3",1,"2018-09-17","Night","Rainbow",120,NA,90,"none","","4","Foraging","",0.34,0.51,0.24,"No Cover","SK3.Night.NA","Rainbow-Foraging",2
+"175","SK3",1,"2018-09-17","Night","Rainbow",150,NA,100,"overhang","","4","Resting","",0.38,0.01,0.01,"Cover","SK3.Night.NA","Rainbow-Resting",0.0666666666666667
+"176","SK3",1,"2018-09-17","Night","Rainbow",60,NA,110,"substrate","","4","Resting","",0.15,0.04,0,"Cover","SK3.Night.NA","Rainbow-Resting",0
+"177","SK3",1,"2018-09-17","Night","Bull trout",95,NA,100,"overhang","","4","Resting","",0.26,0.03,0.01,"Cover","SK3.Night.NA","Bull trout-Resting",0.105263157894737
+"178","SK3",1,"2018-09-17","Night","Bull trout",70,NA,100,"overhang","","4","Resting","",0.15,0.04,0.01,"Cover","SK3.Night.NA","Bull trout-Resting",0.142857142857143
+"179","SK3",1,"2018-09-17","Night","Rainbow",60,NA,100,"wood","","2","Resting","",0.15,0,0,"Cover","SK3.Night.NA","Rainbow-Resting",0
+"180","SK3",1,"2018-09-17","Night","Rainbow",40,NA,90,"none","","3","Resting","",0.05,0.05,0.05,"No Cover","SK3.Night.NA","Rainbow-Resting",1.25
+"180.1","SK3",1,"2018-09-17","Night","Rainbow",40,NA,90,"none","","3","Resting","",0.05,0.05,0.05,"No Cover","SK3.Night.NA","Rainbow-Resting",1.25
+"181","SK3",1,"2018-09-17","Night","Rainbow",30,NA,100,"none","","3","Resting","",0.1,0,0,"No Cover","SK3.Night.NA","Rainbow-Resting",0
+"182","SM1",1,"2018-08-28","Dusk","Bull trout",60,4.1,90,"wood","","1","Resting","",0.23,0.071,0,"Cover","SM1.Dusk.4.1","Bull trout-Resting",0
+"183","SM1",1,"2018-08-28","Dusk","Rainbow",95,5.1,90,"none","","3","Foraging","",0.28,0.448,0.315,"No Cover","SM1.Dusk.5.1","Rainbow-Foraging",3.31578947368421
+"184","SM1",1,"2018-08-28","Dusk","Rainbow",40,6.1,90,"wood","","3","Foraging","",0.18,0.27,0.222,"Cover","SM1.Dusk.6.1","Rainbow-Foraging",5.55
+"185","SM1",1,"2018-08-28","Dusk","Rainbow",75,7.1,90,"none","","3","Foraging","",0.26,0.438,0.195,"No Cover","SM1.Dusk.7.1","Rainbow-Foraging",2.6
+"186","SM1",1,"2018-08-28","Dusk","Rainbow",40,8.1,90,"vegetation","","3","Resting","",NA,NA,0,"Cover","SM1.Dusk.8.1","Rainbow-Resting",0
+"187","SM1",1,"2018-08-28","Dusk","Bull trout",60,9.1,90,"none","","3","Foraging","",0.22,0.403,0,"No Cover","SM1.Dusk.9.1","Bull trout-Foraging",0
+"188","SM1",1,"2018-08-29","Day","Bull trout",60,10.1,110,"substrate","","4","Resting","",0.3,0.2,0,"Cover","SM1.Day.10.1","Bull trout-Resting",0
+"189","SM1",1,"2018-08-29","Day","Rainbow",30,11.1,60,"wood","","3","Foraging","",0.16,0.287,0.287,"Cover","SM1.Day.11.1","Rainbow-Foraging",9.56666666666667
+"190","SM1",1,"2018-08-29","Day","Rainbow",35,12.1,80,"wood","","2","Resting","",NA,NA,0,"Cover","SM1.Day.12.1","Rainbow-Resting",0
+"190.1","SM1",1,"2018-08-29","Day","Rainbow",35,12.1,80,"wood","","2","Resting","",NA,NA,0,"Cover","SM1.Day.12.1","Rainbow-Resting",0
+"190.2","SM1",1,"2018-08-29","Day","Rainbow",35,12.1,80,"wood","","2","Resting","",NA,NA,0,"Cover","SM1.Day.12.1","Rainbow-Resting",0
+"190.3","SM1",1,"2018-08-29","Day","Rainbow",35,12.1,80,"wood","","2","Resting","",NA,NA,0,"Cover","SM1.Day.12.1","Rainbow-Resting",0
+"191","SM1",1,"2018-08-29","Day","Bull trout",50,13.1,100,"wood","","2","Resting","",0.2,0.088,0,"Cover","SM1.Day.13.1","Bull trout-Resting",0
+"195","SM1",1,"2018-08-29","Day","Bull trout",45,17.1,100,"wood","","3","Resting","",0.18,0.266,0.153,"Cover","SM1.Day.17.1","Bull trout-Resting",3.4
+"196","SM1",1,"2018-08-29","Day","Bull trout",50,18.1,100,"wood","overhang","3","Resting","",0.17,0.039,0,"Cover","SM1.Day.18.1","Bull trout-Resting",0
+"199","SM1",1,"2018-08-29","Day","Rainbow",70,21.1,100,"wood","overhang","1","Resting","",NA,NA,0,"Cover","SM1.Day.21.1","Rainbow-Resting",0
+"200","SM1",2,"2018-08-29","Day","Bull trout",45,22.1,100,"wood","overhang","2","Resting","",0.14,0.516,0.52,"Cover","SM1.Day.22.1","Bull trout-Resting",11.5555555555556
+"203","SM1",2,"2018-08-29","Day","Bull trout",45,25.1,100,"wood","overhang","2","Resting","",0.13,0.056,0.058,"Cover","SM1.Day.25.1","Bull trout-Resting",1.28888888888889
+"205","SM1",2,"2018-08-29","Day","Bull trout",50,27.1,100,"wood","overhang","2","Resting","",0.15,0,0,"Cover","SM1.Day.27.1","Bull trout-Resting",0
+"208","SM1",2,"2018-08-29","Day","Rainbow",70,30.1,100,"wood","overhang","2","Resting","",0.38,0.306,0.079,"Cover","SM1.Day.30.1","Rainbow-Resting",1.12857142857143
+"210","SM1",2,"2018-08-29","Day","Bull trout",80,32.1,100,"wood","overhang","2","Resting","",0.14,0.175,0.144,"Cover","SM1.Day.32.1","Bull trout-Resting",1.8
+"212","SM1",3,"2018-08-29","Day","Bull trout",50,34.1,90,"wood","","2","Foraging","",0.46,0.529,0.169,"Cover","SM1.Day.34.1","Bull trout-Foraging",3.38
+"213","SM1",3,"2018-08-29","Day","Rainbow",40,35.1,60,"wood","overhang","1","Foraging","",0.53,0.24,0.24,"Cover","SM1.Day.35.1","Rainbow-Foraging",6
+"213.1","SM1",3,"2018-08-29","Day","Rainbow",40,35.1,60,"wood","overhang","1","Foraging","",0.53,0.24,0.24,"Cover","SM1.Day.35.1","Rainbow-Foraging",6
+"214","SM1",1,"2018-08-29","Dusk","Rainbow",50,36.1,100,"none","","3","Foraging","",0.22,0.823,0.495,"No Cover","SM1.Dusk.36.1","Rainbow-Foraging",9.9
+"215","SM1",1,"2018-08-29","Dusk","Bull trout",65,37.1,90,"none","","3","Foraging","",0.16,0.58,0.455,"No Cover","SM1.Dusk.37.1","Bull trout-Foraging",7
+"216","SM1",1,"2018-08-29","Dusk","Rainbow",45,38.1,90,"none","","2","Foraging","",0.15,0.524,0.414,"No Cover","SM1.Dusk.38.1","Rainbow-Foraging",9.2
+"217","SM1",1,"2018-08-29","Dusk","Rainbow",70,39.1,90,"none","","3","Foraging","",0.3,0.713,0.452,"No Cover","SM1.Dusk.39.1","Rainbow-Foraging",6.45714285714286
+"218","SM1",1,"2018-08-29","Dusk","Rainbow",30,40.1,60,"wood","","3","Foraging","",0.26,0,-0.011,"Cover","SM1.Dusk.40.1","Rainbow-Foraging",-0.366666666666667
+"218.1","SM1",1,"2018-08-29","Dusk","Rainbow",30,40.1,60,"wood","","3","Foraging","",0.26,0,-0.011,"Cover","SM1.Dusk.40.1","Rainbow-Foraging",-0.366666666666667
+"218.2","SM1",1,"2018-08-29","Dusk","Rainbow",30,40.1,60,"wood","","3","Foraging","",0.26,0,-0.011,"Cover","SM1.Dusk.40.1","Rainbow-Foraging",-0.366666666666667
+"219","SM1",1,"2018-08-29","Dusk","Bull trout",60,41.1,90,"none","","3","Foraging","",0.12,0.285,0.001,"No Cover","SM1.Dusk.41.1","Bull trout-Foraging",0.0166666666666667
+"219.1","SM1",1,"2018-08-29","Dusk","Bull trout",60,41.1,90,"none","","3","Foraging","",0.12,0.285,0.001,"No Cover","SM1.Dusk.41.1","Bull trout-Foraging",0.0166666666666667
+"219.2","SM1",1,"2018-08-29","Dusk","Bull trout",60,41.1,90,"none","","3","Foraging","",0.12,0.285,0.001,"No Cover","SM1.Dusk.41.1","Bull trout-Foraging",0.0166666666666667
+"220","SM1",1,"2018-08-29","Dusk","Rainbow",40,42.1,90,"overhang","","3","Foraging","",0.15,0.23,0.102,"Cover","SM1.Dusk.42.1","Rainbow-Foraging",2.55
+"221","SM1",2,"2018-08-29","Dusk","Bull trout",55,43.1,90,"wood","overhang","3","Foraging","",0.14,0.088,0.07,"Cover","SM1.Dusk.43.1","Bull trout-Foraging",1.27272727272727
+"222","SM1",2,"2018-08-29","Dusk","Bull trout",70,44.1,90,"none","","3","Foraging","",0.3,0.584,0.327,"No Cover","SM1.Dusk.44.1","Bull trout-Foraging",4.67142857142857
+"223","SM1",2,"2018-08-29","Dusk","Bull trout",120,45.1,90,"none","","3","Foraging","",0.36,0.451,0.34,"No Cover","SM1.Dusk.45.1","Bull trout-Foraging",2.83333333333333
+"224","SM1",2,"2018-08-29","Dusk","Rainbow",55,46.1,90,"none","","3","Foraging","",0.24,0.348,0.317,"No Cover","SM1.Dusk.46.1","Rainbow-Foraging",5.76363636363636
+"225","SM1",2,"2018-08-29","Dusk","Bull trout",65,47.1,90,"none","","3","Foraging","",0.24,0.242,0.191,"No Cover","SM1.Dusk.47.1","Bull trout-Foraging",2.93846153846154
+"226","SM1",2,"2018-08-29","Dusk","Bull trout",60,48.1,90,"none","","3","Foraging","",0.18,0.374,0.327,"No Cover","SM1.Dusk.48.1","Bull trout-Foraging",5.45
+"227","SM1",2,"2018-08-29","Dusk","Rainbow",80,49.1,90,"none","","3","Foraging","",0.2,0.395,0.189,"No Cover","SM1.Dusk.49.1","Rainbow-Foraging",2.3625
+"228","SM1",2,"2018-08-29","Dusk","Bull trout",65,50.1,90,"none","","3","Foraging","",0.2,0.384,0.247,"No Cover","SM1.Dusk.50.1","Bull trout-Foraging",3.8
+"229","SM1",2,"2018-08-29","Dusk","Rainbow",100,51.1,90,"none","","3","Foraging","",0.18,0.363,0.277,"No Cover","SM1.Dusk.51.1","Rainbow-Foraging",2.77
+"230","SM1",2,"2018-08-29","Dusk","Bull trout",150,52.1,100,"none","","3","Foraging","",0.58,0.689,0.405,"No Cover","SM1.Dusk.52.1","Bull trout-Foraging",2.7
+"231","SM1",2,"2018-08-29","Dusk","Bull trout",90,53.1,90,"none","","3","Foraging","",0.56,0.484,0.217,"No Cover","SM1.Dusk.53.1","Bull trout-Foraging",2.41111111111111
+"232","SM1",2,"2018-08-29","Day","Rainbow",50,NA,80,"wood","","2","Foraging","",0.3,0.22,0.21,"Cover","SM1.Day.NA","Rainbow-Foraging",4.2
+"233","SM1",1,"2018-09-24","Night","Bull trout",90,NA,100,"vegetation","","3","Resting","",0.36,0.24,0.15,"Cover","SM1.Night.NA","Bull trout-Resting",1.66666666666667
+"234","SM1",1,"2018-09-24","Night","Bull trout",75,NA,100,"vegetation","","1","Resting","",0.34,0.07,0.05,"Cover","SM1.Night.NA","Bull trout-Resting",0.666666666666667
+"235","SM1",1,"2018-09-24","Night","Bull trout",100,NA,100,"vegetation","","2","Resting","",0.65,0.17,0.19,"Cover","SM1.Night.NA","Bull trout-Resting",1.9
+"236","SM1",1,"2018-09-24","Night","Rainbow",50,NA,100,"none","","1","Resting","",0.15,0,0,"No Cover","SM1.Night.NA","Rainbow-Resting",0
+"237","SM1",1,"2018-09-24","Night","Rainbow",70,NA,100,"none","","2","Foraging","",0.25,0.43,0.38,"No Cover","SM1.Night.NA","Rainbow-Foraging",5.42857142857143
+"238","SM1",1,"2018-09-24","Night","Rainbow",70,NA,95,"wood","","2","Foraging","",0.14,0.22,0.22,"Cover","SM1.Night.NA","Rainbow-Foraging",3.14285714285714
+"239","SM1",1,"2018-09-24","Night","Bull trout",70,NA,100,"wood","","2","Resting","",0.22,0.2,0.19,"Cover","SM1.Night.NA","Bull trout-Resting",2.71428571428571
+"240","SM1",1,"2018-09-24","Night","Bull trout",65,NA,100,"none","","2","Resting","",0.14,0.47,0.47,"No Cover","SM1.Night.NA","Bull trout-Resting",7.23076923076923
+"241","SM1",1,"2018-09-24","Night","Rainbow",50,NA,85,"none","","2","Foraging","",0.22,0.24,0.21,"No Cover","SM1.Night.NA","Rainbow-Foraging",4.2
+"241.1","SM1",1,"2018-09-24","Night","Rainbow",50,NA,85,"none","","2","Foraging","",0.22,0.24,0.21,"No Cover","SM1.Night.NA","Rainbow-Foraging",4.2
+"242","SM1",1,"2018-09-24","Night","Rainbow",75,NA,85,"none","","2","Foraging","",0.22,0.24,0.21,"No Cover","SM1.Night.NA","Rainbow-Foraging",2.8
+"242.1","SM1",1,"2018-09-24","Night","Rainbow",75,NA,85,"none","","2","Foraging","",0.22,0.24,0.21,"No Cover","SM1.Night.NA","Rainbow-Foraging",2.8
+"243","SM1",1,"2018-09-24","Night","Bull trout",70,NA,95,"wood","","2","Foraging","",0.46,0.31,0.25,"Cover","SM1.Night.NA","Bull trout-Foraging",3.57142857142857
+"244","SM1",1,"2018-09-24","Night","Bull trout",80,NA,95,"none","","2","Foraging","",0.57,0.68,0.6,"No Cover","SM1.Night.NA","Bull trout-Foraging",7.5
+"245","SM1",1,"2018-09-24","Night","Bull trout",55,NA,100,"wood","","2","Resting","",0.2,0.05,0.04,"Cover","SM1.Night.NA","Bull trout-Resting",0.727272727272727
+"246","SM1",1,"2018-09-24","Night","Bull trout",75,NA,95,"none","","1","Foraging","",0.54,0.44,0.33,"No Cover","SM1.Night.NA","Bull trout-Foraging",4.4
+"247","SM1",1,"2018-09-24","Night","Bull trout",140,NA,100,"overhang","","2","Resting","",0.14,0,0,"Cover","SM1.Night.NA","Bull trout-Resting",0
+"248","SM1",1,"2018-09-24","Night","Bull trout",150,NA,100,"overhang","","2","Resting","",0.14,0,0,"Cover","SM1.Night.NA","Bull trout-Resting",0
+"249","SM1",1,"2018-09-24","Night","Bull trout",150,NA,90,"none","","2","Foraging","",0.47,0.48,0.26,"No Cover","SM1.Night.NA","Bull trout-Foraging",1.73333333333333
+"250","SM1",1,"2018-09-24","Night","Bull trout",60,NA,100,"none","","2","Resting","",0.35,0.48,0.35,"No Cover","SM1.Night.NA","Bull trout-Resting",5.83333333333333
+"251","SM1",1,"2018-09-24","Night","Rainbow",70,NA,95,"none","","2","Foraging","",0.41,0.44,0.25,"No Cover","SM1.Night.NA","Rainbow-Foraging",3.57142857142857
+"252","SM1",1,"2018-09-24","Night","Bull trout",70,NA,100,"none","","2","Resting","",0.47,0.19,0.13,"No Cover","SM1.Night.NA","Bull trout-Resting",1.85714285714286
+"253","SM1",1,"2018-09-24","Night","Bull trout",65,NA,100,"wood","","2","Resting","",0.69,0.05,0.05,"Cover","SM1.Night.NA","Bull trout-Resting",0.769230769230769
+"254","SM1",1,"2018-09-24","Night","Bull trout",80,NA,100,"none","","2","Resting","",0.87,0.19,0.15,"No Cover","SM1.Night.NA","Bull trout-Resting",1.875
+"255","SM1",1,"2018-09-24","Night","Bull trout",60,NA,100,"none","","1","Resting","",0.84,0,0,"No Cover","SM1.Night.NA","Bull trout-Resting",0
+"256","SM1",1,"2018-09-24","Night","Bull trout",70,NA,100,"wood","","2","Resting","",0.45,0,0,"Cover","SM1.Night.NA","Bull trout-Resting",0
+"257","SM1",1,"2018-09-24","Night","Rainbow",60,NA,80,"wood","","1","Resting","",0.37,0,0,"Cover","SM1.Night.NA","Rainbow-Resting",0
+"258","SM1",1,"2018-09-24","Night","Bull trout",75,NA,90,"none","","2","Resting","",0.86,0,0,"No Cover","SM1.Night.NA","Bull trout-Resting",0
+"259","SM2",1,"2018-09-18","Day","Rainbow",35,NA,90,"overhang","","2","Foraging","",0.14,0.03,0.03,"Cover","SM2.Day.NA","Rainbow-Foraging",0.857142857142857
+"259.1","SM2",1,"2018-09-18","Day","Rainbow",35,NA,90,"overhang","","2","Foraging","",0.14,0.03,0.03,"Cover","SM2.Day.NA","Rainbow-Foraging",0.857142857142857
+"259.2","SM2",1,"2018-09-18","Day","Rainbow",35,NA,90,"overhang","","2","Foraging","",0.14,0.03,0.03,"Cover","SM2.Day.NA","Rainbow-Foraging",0.857142857142857
+"259.3","SM2",1,"2018-09-18","Day","Rainbow",35,NA,90,"overhang","","2","Foraging","",0.14,0.03,0.03,"Cover","SM2.Day.NA","Rainbow-Foraging",0.857142857142857
+"261","SM2",1,"2018-09-18","Day","Rainbow",50,NA,110,"substrate","","3","Resting","",0.3,0.16,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"262","SM2",1,"2018-09-18","Day","Bull trout",70,NA,90,"wood","","2","Foraging","",0.85,0.06,0.07,"Cover","SM2.Day.NA","Bull trout-Foraging",1
+"262.1","SM2",1,"2018-09-18","Day","Bull trout",70,NA,90,"wood","","2","Foraging","",0.85,0.06,0.07,"Cover","SM2.Day.NA","Bull trout-Foraging",1
+"263","SM2",1,"2018-09-18","Day","Rainbow",75,NA,90,"wood","","2","Foraging","",0.85,0.06,0.07,"Cover","SM2.Day.NA","Rainbow-Foraging",0.933333333333333
+"263.1","SM2",1,"2018-09-18","Day","Rainbow",75,NA,90,"wood","","2","Foraging","",0.85,0.06,0.07,"Cover","SM2.Day.NA","Rainbow-Foraging",0.933333333333333
+"264","SM2",1,"2018-09-18","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.5,0.2,0,"Cover","SM2.Day.NA","Bull trout-Foraging",0
+"264.1","SM2",1,"2018-09-18","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.5,0.2,0,"Cover","SM2.Day.NA","Bull trout-Foraging",0
+"265","SM2",1,"2018-09-18","Day","Rainbow",55,NA,110,"substrate","","3","Resting","",0.17,0.07,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"266","SM2",1,"2018-09-18","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.2,0.14,0.05,"Cover","SM2.Day.NA","Bull trout-Foraging",0.769230769230769
+"267","SM2",1,"2018-09-18","Dusk","Rainbow",55,NA,80,"none","","2","Foraging","",0.53,0.36,0.32,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",5.81818181818182
+"268","SM2",1,"2018-09-18","Dusk","Bull trout",60,NA,90,"none","","2","Foraging","",0.71,0.32,0.25,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",4.16666666666667
+"269","SM2",1,"2018-09-18","Dusk","Rainbow",50,NA,90,"wood","","1","Foraging","",0.6,0.09,0.09,"Cover","SM2.Dusk.NA","Rainbow-Foraging",1.8
+"269.1","SM2",1,"2018-09-18","Dusk","Rainbow",50,NA,90,"wood","","1","Foraging","",0.6,0.09,0.09,"Cover","SM2.Dusk.NA","Rainbow-Foraging",1.8
+"270","SM2",1,"2018-09-18","Dusk","Rainbow",50,NA,90,"none","","3","Foraging","",0.4,0.33,0.24,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",4.8
+"270.1","SM2",1,"2018-09-18","Dusk","Rainbow",50,NA,90,"none","","3","Foraging","",0.4,0.33,0.24,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",4.8
+"271","SM2",1,"2018-09-18","Dusk","Rainbow",55,NA,90,"none","","2","Foraging","",0.58,0.33,0.28,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",5.09090909090909
+"272","SM2",1,"2018-09-18","Dusk","Rainbow",50,NA,90,"none","","2","Foraging","",0.95,0.2,0.2,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",4
+"273","SM2",1,"2018-09-18","Dusk","Rainbow",45,NA,90,"none","","3","Foraging","",0.26,0.29,0.28,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",6.22222222222222
+"274","SM2",1,"2018-09-18","Dusk","Rainbow",40,NA,90,"none","","3","Foraging","",0.21,0.21,0.19,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",4.75
+"275","SM2",1,"2018-09-18","Dusk","Rainbow",55,NA,90,"none","","3","Foraging","",0.34,0.24,0.2,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",3.63636363636364
+"276","SM2",1,"2018-09-18","Dusk","Rainbow",55,NA,90,"none","","3","Foraging","",0.38,0.22,0.14,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",2.54545454545455
+"277","SM2",1,"2018-09-18","Dusk","Rainbow",65,NA,90,"none","","2","Foraging","",0.8,0.3,0.3,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",4.61538461538461
+"278","SM2",1,"2018-09-18","Dusk","Bull trout",70,NA,100,"overhang","","2","Foraging","",1.2,0.22,0.26,"Cover","SM2.Dusk.NA","Bull trout-Foraging",3.71428571428571
+"279","SM2",1,"2018-09-18","Dusk","Bull trout",90,NA,100,"none","","3","Foraging","",0.38,0.26,0.2,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",2.22222222222222
+"280","SM2",1,"2018-09-18","Dusk","Bull trout",95,NA,100,"wood","","2","Foraging","",1.21,0.07,0.13,"Cover","SM2.Dusk.NA","Bull trout-Foraging",1.36842105263158
+"281","SM2",1,"2018-09-18","Dusk","Bull trout",100,NA,100,"wood","","1","Foraging","",0.9,0.23,0.16,"Cover","SM2.Dusk.NA","Bull trout-Foraging",1.6
+"282","SM2",1,"2018-09-18","Dusk","Bull trout",70,NA,100,"wood","","1","Foraging","",0.9,0.23,0.16,"Cover","SM2.Dusk.NA","Bull trout-Foraging",2.28571428571429
+"283","SM2",1,"2018-09-18","Dusk","Bull trout",90,NA,100,"wood","","1","Resting","",0.55,0.26,0.21,"Cover","SM2.Dusk.NA","Bull trout-Resting",2.33333333333333
+"284","SM2",1,"2018-09-18","Dusk","Rainbow",55,NA,90,"none","","3","Foraging","",0.3,0.58,0.5,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",9.09090909090909
+"285","SM2",1,"2018-09-18","Dusk","Bull trout",65,NA,90,"none","","3","Foraging","",0.36,0.4,0.27,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",4.15384615384615
+"286","SM2",1,"2018-09-18","Dusk","Bull trout",80,NA,90,"none","","3","Foraging","",0.19,0.42,0.32,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",4
+"287","SM2",2,"2018-09-18","Dusk","Rainbow",60,NA,90,"none","","3","Foraging","",0.32,0.62,0.47,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",7.83333333333333
+"288","SM2",2,"2018-09-18","Dusk","Rainbow",65,NA,90,"none","","3","Foraging","",0.36,0.58,0.5,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",7.69230769230769
+"289","SM2",3,"2018-09-19","Day","Rainbow",30,NA,60,"wood","","2","Foraging","",0.06,0.07,0.07,"Cover","SM2.Day.NA","Rainbow-Foraging",2.33333333333333
+"289.1","SM2",3,"2018-09-19","Day","Rainbow",30,NA,60,"wood","","2","Foraging","",0.06,0.07,0.07,"Cover","SM2.Day.NA","Rainbow-Foraging",2.33333333333333
+"290","SM2",2,"2018-09-19","Day","Rainbow",50,NA,100,"wood","","1","Resting","",0.44,0.02,0.01,"Cover","SM2.Day.NA","Rainbow-Resting",0.2
+"291","SM2",2,"2018-09-19","Day","Bull trout",65,NA,110,"substrate","","4","Resting","",0.2,0.57,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"292","SM2",2,"2018-09-19","Day","Bull trout",60,NA,110,"substrate","","4","Resting","",0.25,0.48,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"293","SM2",2,"2018-09-19","Day","Bull trout",55,NA,110,"substrate","","4","Resting","",0.15,0.34,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"294","SM2",2,"2018-09-19","Day","Bull trout",70,NA,110,"substrate","","4","Resting","",0.49,0.49,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"295","SM2",2,"2018-09-19","Day","Rainbow",30,NA,90,"wood","","1","Foraging","",0.48,0.31,0.14,"Cover","SM2.Day.NA","Rainbow-Foraging",4.66666666666667
+"295.1","SM2",2,"2018-09-19","Day","Rainbow",30,NA,90,"wood","","1","Foraging","",0.48,0.31,0.14,"Cover","SM2.Day.NA","Rainbow-Foraging",4.66666666666667
+"296","SM2",2,"2018-09-19","Day","Rainbow",70,NA,100,"wood","","3","Foraging","",0.75,0.28,0.08,"Cover","SM2.Day.NA","Rainbow-Foraging",1.14285714285714
+"297","SM2",2,"2018-09-19","Day","Rainbow",60,NA,110,"substrate","","3","Resting","",0.35,0.3,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"298","SM2",2,"2018-09-19","Day","Rainbow",55,NA,110,"substrate","","4","Resting","",0.4,0.18,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"299","SM2",4,"2018-09-19","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.18,0.24,0.06,"Cover","SM2.Day.NA","Bull trout-Foraging",0.923076923076923
+"299.1","SM2",4,"2018-09-19","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.18,0.24,0.06,"Cover","SM2.Day.NA","Bull trout-Foraging",0.923076923076923
+"299.2","SM2",4,"2018-09-19","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.18,0.24,0.06,"Cover","SM2.Day.NA","Bull trout-Foraging",0.923076923076923
+"299.3","SM2",4,"2018-09-19","Day","Bull trout",65,NA,100,"wood","","2","Foraging","",1.18,0.24,0.06,"Cover","SM2.Day.NA","Bull trout-Foraging",0.923076923076923
+"300","SM2",4,"2018-09-19","Day","Rainbow",55,NA,50,"wood","","2","Foraging","",1.15,0.17,0.27,"Cover","SM2.Day.NA","Rainbow-Foraging",4.90909090909091
+"300.1","SM2",4,"2018-09-19","Day","Rainbow",55,NA,50,"wood","","2","Foraging","",1.15,0.17,0.27,"Cover","SM2.Day.NA","Rainbow-Foraging",4.90909090909091
+"301","SM2",4,"2018-09-19","Day","Rainbow",70,NA,90,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",0.714285714285714
+"301.1","SM2",4,"2018-09-19","Day","Rainbow",70,NA,90,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",0.714285714285714
+"301.2","SM2",4,"2018-09-19","Day","Rainbow",70,NA,90,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",0.714285714285714
+"301.3","SM2",4,"2018-09-19","Day","Rainbow",70,NA,90,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",0.714285714285714
+"301.4","SM2",4,"2018-09-19","Day","Rainbow",70,NA,90,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",0.714285714285714
+"301.5","SM2",4,"2018-09-19","Day","Rainbow",70,NA,90,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",0.714285714285714
+"302","SM2",4,"2018-09-19","Day","Bull trout",80,NA,100,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Bull trout-Foraging",0.625
+"302.1","SM2",4,"2018-09-19","Day","Bull trout",80,NA,100,"wood","","2","Foraging","",2,0.1,0.05,"Cover","SM2.Day.NA","Bull trout-Foraging",0.625
+"303","SM2",4,"2018-09-19","Day","Rainbow",60,NA,110,"substrate","","5","Resting","",0.29,0.05,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"304","SM2",4,"2018-09-19","Day","Rainbow",60,NA,110,"substrate","","4","Resting","",0.44,0.05,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"305","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.1","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.2","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.3","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.4","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.5","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.6","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.7","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.8","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.9","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"305.10","SM2",4,"2018-09-19","Day","Rainbow",40,NA,90,"overhang","","2","Foraging","",0.2,0.04,0.05,"Cover","SM2.Day.NA","Rainbow-Foraging",1.25
+"306","SM2",4,"2018-09-19","Day","Rainbow",60,NA,110,"substrate","","4","Resting","",0.45,0.39,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"307","SM2",4,"2018-09-19","Day","Rainbow",55,NA,110,"substrate","","4","Resting","",0.24,0.24,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"308","SM2",4,"2018-09-19","Day","Bull trout",110,NA,110,"substrate","","5","Resting","",0.6,0.34,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"309","SM2",4,"2018-09-19","Day","Bull trout",85,NA,110,"substrate","","4","Resting","",0.6,0.27,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"310","SM2",4,"2018-09-19","Day","Rainbow",60,NA,110,"substrate","","4","Resting","",0.6,0.48,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"310.1","SM2",4,"2018-09-19","Day","Rainbow",60,NA,110,"substrate","","4","Resting","",0.6,0.48,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"311","SM2",4,"2018-09-19","Day","Rainbow",55,NA,110,"substrate","","4","Resting","",0.58,0.34,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"312","SM2",4,"2018-09-19","Day","Bull trout",85,NA,110,"substrate","","4","Resting","",0.59,0.32,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"313","SM2",4,"2018-09-19","Day","Bull trout",90,NA,110,"substrate","","5","Resting","",0.69,0.18,0,"Cover","SM2.Day.NA","Bull trout-Resting",0
+"314","SM2",4,"2018-09-19","Day","Rainbow",70,NA,110,"substrate","","4","Resting","",0.33,0.16,0,"Cover","SM2.Day.NA","Rainbow-Resting",0
+"315","SM2",2,"2018-09-19","Dusk","Rainbow",45,NA,100,"none","","2","Foraging","",0.78,0.05,0.06,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.33333333333333
+"315.1","SM2",2,"2018-09-19","Dusk","Rainbow",45,NA,100,"none","","2","Foraging","",0.78,0.05,0.06,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.33333333333333
+"315.2","SM2",2,"2018-09-19","Dusk","Rainbow",45,NA,100,"none","","2","Foraging","",0.78,0.05,0.06,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.33333333333333
+"316","SM2",2,"2018-09-19","Dusk","Rainbow",60,NA,90,"none","","3","Foraging","",0.41,0.57,0.54,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",9
+"317","SM2",2,"2018-09-19","Dusk","Rainbow",70,NA,90,"wood","","3","Foraging","",0.38,0.44,0.41,"Cover","SM2.Dusk.NA","Rainbow-Foraging",5.85714285714286
+"318","SM2",2,"2018-09-19","Dusk","Rainbow",55,NA,90,"none","","3","Foraging","",0.39,0.46,0.34,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",6.18181818181818
+"319","SM2",2,"2018-09-19","Dusk","Rainbow",55,NA,90,"none","","3","Foraging","",0.67,0.29,0.26,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",4.72727272727273
+"320","SM2",2,"2018-09-19","Dusk","Bull trout",70,NA,100,"none","","2","Foraging","",0.7,0.23,0.06,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.857142857142857
+"320.1","SM2",2,"2018-09-19","Dusk","Bull trout",70,NA,100,"none","","2","Foraging","",0.7,0.23,0.06,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.857142857142857
+"321","SM2",2,"2018-09-19","Dusk","Bull trout",75,NA,100,"none","","4","Resting","",0.6,0.27,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0.133333333333333
+"322","SM2",2,"2018-09-19","Dusk","Bull trout",70,NA,100,"none","","4","Foraging","",0.5,0.23,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.142857142857143
+"323","SM2",4,"2018-09-24","Dusk","Bull trout",70,NA,100,"none","","4","Foraging","",0.9,0.29,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.142857142857143
+"324","SM2",4,"2018-09-24","Dusk","Bull trout",90,NA,100,"wood","","3","Foraging","",1.3,0.1,0.09,"Cover","SM2.Dusk.NA","Bull trout-Foraging",1
+"324.1","SM2",4,"2018-09-24","Dusk","Bull trout",90,NA,100,"wood","","3","Foraging","",1.3,0.1,0.09,"Cover","SM2.Dusk.NA","Bull trout-Foraging",1
+"325","SM2",4,"2018-09-24","Dusk","Bull trout",95,NA,100,"none","","3","Foraging","",1.25,0.02,0,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0
+"326","SM2",4,"2018-09-24","Dusk","Rainbow",60,NA,100,"wood","","2","Foraging","",0.18,0.44,0,"Cover","SM2.Dusk.NA","Rainbow-Foraging",0
+"327","SM2",4,"2018-09-24","Dusk","Rainbow",55,NA,90,"none","","3","Foraging","",1.85,0.18,0.08,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.45454545454545
+"328","SM2",4,"2018-09-24","Dusk","Bull trout",100,NA,100,"wood","","3","Foraging",".",0.83,0.22,0.08,"Cover","SM2.Dusk.NA","Bull trout-Foraging",0.8
+"329","SM2",4,"2018-09-24","Dusk","Rainbow",60,NA,60,"none","","2","Foraging","",0.31,0.08,0.08,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.33333333333333
+"330","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"330.1","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"330.2","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"330.3","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"330.4","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"330.5","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"330.6","SM2",4,"2018-09-24","Dusk","Bull trout",80,NA,100,"none","","2","Resting","",0.9,0,0,"No Cover","SM2.Dusk.NA","Bull trout-Resting",0
+"331","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.1","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.2","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.3","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.4","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.5","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.6","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"331.7","SM2",4,"2018-09-24","Dusk","Bull trout",110,NA,100,"none","","4","Foraging","",1.1,0.02,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0909090909090909
+"332","SM2",4,"2018-09-24","Dusk","Bull trout",95,NA,100,"none","","4","Foraging","",1.8,0.05,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.105263157894737
+"333","SM2",4,"2018-09-24","Dusk","Bull trout",85,NA,100,"none","","4","Foraging","",0.82,0.34,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.117647058823529
+"334","SM2",4,"2018-09-24","Dusk","Rainbow",90,NA,90,"none","","4","Foraging","",0.26,0.31,0.27,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",3
+"335","SM2",4,"2018-09-24","Dusk","Bull trout",180,NA,100,"none","","4","Foraging","",1.9,0.19,0.01,"No Cover","SM2.Dusk.NA","Bull trout-Foraging",0.0555555555555556
+"336","SM2",4,"2018-09-24","Dusk","Rainbow",40,NA,60,"none","","3","Foraging","",0.31,0.07,0.07,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.75
+"336.1","SM2",4,"2018-09-24","Dusk","Rainbow",40,NA,60,"none","","3","Foraging","",0.31,0.07,0.07,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.75
+"336.2","SM2",4,"2018-09-24","Dusk","Rainbow",40,NA,60,"none","","3","Foraging","",0.31,0.07,0.07,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.75
+"336.3","SM2",4,"2018-09-24","Dusk","Rainbow",40,NA,60,"none","","3","Foraging","",0.31,0.07,0.07,"No Cover","SM2.Dusk.NA","Rainbow-Foraging",1.75
+"337","SM2",4,"2018-09-24","Night","Bull trout",95,NA,100,"none","","1","Resting","",0.85,0.35,0.12,"No Cover","SM2.Night.NA","Bull trout-Resting",1.26315789473684
+"338","SM2",4,"2018-09-24","Night","Bull trout",60,NA,100,"none","","1","Resting","",0.28,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"339","SM2",4,"2018-09-24","Night","Bull trout",70,NA,100,"none","","2","Resting","",0.55,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"339.1","SM2",4,"2018-09-24","Night","Bull trout",70,NA,100,"none","","2","Resting","",0.55,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"340","SM2",4,"2018-09-24","Night","Rainbow",90,NA,100,"none","","2","Resting","",0.74,0,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
+"341","SM2",4,"2018-09-24","Night","Rainbow",60,NA,100,"wood","","2","Resting","",0.28,0.21,0.01,"Cover","SM2.Night.NA","Rainbow-Resting",0.166666666666667
+"342","SM2",4,"2018-09-24","Night","Bull trout",100,NA,100,"wood","","3","Foraging","",0.36,0.19,0,"Cover","SM2.Night.NA","Bull trout-Foraging",0
+"343","SM2",4,"2018-09-24","Night","Rainbow",95,NA,100,"wood","","3","Foraging","",0.64,0.28,0.08,"Cover","SM2.Night.NA","Rainbow-Foraging",0.842105263157895
+"344","SM2",4,"2018-09-24","Night","Bull trout",115,NA,100,"wood","","2","Resting","",0.88,0,0,"Cover","SM2.Night.NA","Bull trout-Resting",0
+"345","SM2",4,"2018-09-24","Night","Rainbow",115,NA,100,"wood","","2","Resting","",0.9,0,0,"Cover","SM2.Night.NA","Rainbow-Resting",0
+"346","SM2",4,"2018-09-24","Night","Bull trout",70,NA,100,"none","","1","Resting","",0.44,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"346.1","SM2",4,"2018-09-24","Night","Bull trout",70,NA,100,"none","","1","Resting","",0.44,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"346.2","SM2",4,"2018-09-24","Night","Bull trout",70,NA,100,"none","","1","Resting","",0.44,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"346.3","SM2",4,"2018-09-24","Night","Bull trout",70,NA,100,"none","","1","Resting","",0.44,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"347","SM2",4,"2018-09-24","Night","Rainbow",100,NA,90,"none","","3","Foraging","",0.1,0.73,0.49,"No Cover","SM2.Night.NA","Rainbow-Foraging",4.9
+"348","SM2",4,"2018-09-24","Night","Bull trout",85,NA,100,"none","","3","Foraging","",0.1,0.58,0.35,"No Cover","SM2.Night.NA","Bull trout-Foraging",4.11764705882353
+"349","SM2",4,"2018-09-24","Night","Bull trout",180,NA,90,"none","","3","Foraging","",0.61,0.5,0.22,"No Cover","SM2.Night.NA","Bull trout-Foraging",1.22222222222222
+"349.1","SM2",4,"2018-09-24","Night","Bull trout",180,NA,90,"none","","3","Foraging","",0.61,0.5,0.22,"No Cover","SM2.Night.NA","Bull trout-Foraging",1.22222222222222
+"349.2","SM2",4,"2018-09-24","Night","Bull trout",180,NA,90,"none","","3","Foraging","",0.61,0.5,0.22,"No Cover","SM2.Night.NA","Bull trout-Foraging",1.22222222222222
+"350","SM2",4,"2018-09-24","Night","Rainbow",45,NA,100,"none","","3","Resting","",0.09,0.01,0.01,"No Cover","SM2.Night.NA","Rainbow-Resting",0.222222222222222
+"350.1","SM2",4,"2018-09-24","Night","Rainbow",45,NA,100,"none","","3","Resting","",0.09,0.01,0.01,"No Cover","SM2.Night.NA","Rainbow-Resting",0.222222222222222
+"350.2","SM2",4,"2018-09-24","Night","Rainbow",45,NA,100,"none","","3","Resting","",0.09,0.01,0.01,"No Cover","SM2.Night.NA","Rainbow-Resting",0.222222222222222
+"351","SM2",4,"2018-09-24","Night","Bull trout",90,NA,100,"none","","3","Resting","",0.87,0.22,0.14,"No Cover","SM2.Night.NA","Bull trout-Resting",1.55555555555556
+"351.1","SM2",4,"2018-09-24","Night","Bull trout",90,NA,100,"none","","3","Resting","",0.87,0.22,0.14,"No Cover","SM2.Night.NA","Bull trout-Resting",1.55555555555556
+"351.2","SM2",4,"2018-09-24","Night","Bull trout",90,NA,100,"none","","3","Resting","",0.87,0.22,0.14,"No Cover","SM2.Night.NA","Bull trout-Resting",1.55555555555556
+"353","SM2",4,"2018-09-24","Night","Bull trout",85,NA,100,"none","","3","Resting","",1.07,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"353.1","SM2",4,"2018-09-24","Night","Bull trout",85,NA,100,"none","","3","Resting","",1.07,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"353.2","SM2",4,"2018-09-24","Night","Bull trout",85,NA,100,"none","","3","Resting","",1.07,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"354","SM2",4,"2018-09-24","Night","Bull trout",95,NA,100,"none","","2","Resting","",0.66,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"354.1","SM2",4,"2018-09-24","Night","Bull trout",95,NA,100,"none","","2","Resting","",0.66,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"355","SM2",4,"2018-09-24","Night","Bull trout",95,NA,100,"none","","2","Resting","",1.25,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"355.1","SM2",4,"2018-09-24","Night","Bull trout",95,NA,100,"none","","2","Resting","",1.25,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"356","SM2",4,"2018-09-24","Night","Bull trout",90,NA,100,"none","","2","Resting","",0.88,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"356.1","SM2",4,"2018-09-24","Night","Bull trout",90,NA,100,"none","","2","Resting","",0.88,0,0,"No Cover","SM2.Night.NA","Bull trout-Resting",0
+"357","SM2",4,"2018-09-24","Night","Rainbow",40,NA,100,"none","","1","Resting","",0.25,0,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
+"358","SM2",4,"2018-09-24","Night","Rainbow",100,NA,100,"none","","5","Resting","",0.58,0.34,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
+"358.1","SM2",4,"2018-09-24","Night","Rainbow",100,NA,100,"none","","5","Resting","",0.58,0.34,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
+"358.2","SM2",4,"2018-09-24","Night","Rainbow",100,NA,100,"none","","5","Resting","",0.58,0.34,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
+"358.3","SM2",4,"2018-09-24","Night","Rainbow",100,NA,100,"none","","5","Resting","",0.58,0.34,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
+"358.4","SM2",4,"2018-09-24","Night","Rainbow",100,NA,100,"none","","5","Resting","",0.58,0.34,0,"No Cover","SM2.Night.NA","Rainbow-Resting",0
